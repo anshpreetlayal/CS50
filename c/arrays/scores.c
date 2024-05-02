@@ -2,7 +2,7 @@
 #include <cs50.h>
 
 const int N = 3;
-float average(int array[]);
+float average(int length,  int array[]);
 int main(void)
 {
     int scores[N];
@@ -21,4 +21,10 @@ float average(int array[])
         sum = sum + array[i];
     }
     return sum / (float) N;
+}
+
+int main(void)
+{
+    string s = "HI!";
+    print("%i %i %i %i\n", s[0], s[1], s[2], s[3]);
 }

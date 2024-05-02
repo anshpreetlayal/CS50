@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/anshp/IdeaProjects/CS50/c",
-      "program": "c:/Users/anshp/IdeaProjects/CS50/c/build/Debug/outDebug",
+      "cwd": "c:/Users/anshp/IdeaProjects/CS50/c/arrays",
+      "program": "c:/Users/anshp/IdeaProjects/CS50/c/arrays/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
